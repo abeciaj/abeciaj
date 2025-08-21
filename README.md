@@ -1,12 +1,34 @@
-## Hi there 👋
+# 👋 Hello, I'm Jayllan Abecia  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget fringilla lectus. Aliquam non erat vitae ante mattis lobortis eu in arcu. Duis tempus, magna eu elementum porttitor, nulla erat tristique mauris, sit amet elementum eros nisl vitae eros. Pellentesque viverra quis enim sit amet finibus. Curabitur nec sodales lacus, sit amet dapibus erat. Mauris ut mollis dui. Nam aliquet consectetur tellus, in vehicula mi tincidunt vitae. Suspendisse leo ligula, placerat id eros eu, pharetra rhoncus justo.
+🚀 **Cloud Engineer | Tech Enthusiast | Lifelong Learner**  
 
-Pellentesque pellentesque nibh justo, nec sollicitudin sem vestibulum vitae. Duis tempor nulla non tempor tempor. Cras quis placerat lacus, a tempor orci. Aenean quam augue, scelerisque eget mi vel, pretium accumsan erat. Phasellus eget lectus quis nibh ultricies viverra. Donec a eleifend felis, eget rhoncus lorem. Nam sollicitudin non mi quis pulvinar. Phasellus dui nisi, luctus vel sapien pretium, euismod volutpat mauris. Nam quis magna vestibulum, gravida eros ac, fermentum lacus. Donec placerat tellus vehicula, hendrerit mi ut, scelerisque erat.
+I am a passionate **Cloud Engineer** with a keen interest in staying at the forefront of technology trends.  
+When I’m not immersed in cloud computing, you’ll often find me **exploring new technologies** or **reading a good book**.  
+I enjoy solving challenges in the ever-evolving tech landscape and discovering innovative solutions.  
 
-Sed nisi turpis, mollis sed sodales ut, finibus et ex. Nulla facilisi. Suspendisse tempor dapibus tincidunt. Sed maximus, lorem at convallis vehicula, nisl ante interdum tortor, et aliquet leo justo a felis. Nulla eget leo iaculis, sagittis tellus a, dictum diam. Sed tincidunt sapien metus, et scelerisque ex consequat quis. In hac habitasse platea dictumst.
+> *"Let’s navigate the digital realm together!"* 🌐  
 
-Quisque sit amet feugiat mauris, quis vulputate lacus. In mi mi, viverra a congue aliquet, auctor quis risus. In mauris odio, mollis eget ante auctor, lobortis accumsan nisl. Suspendisse suscipit, augue eu tincidunt vehicula, sem justo dapibus nisl, vel volutpat velit nisl non tellus. Duis id mi eleifend, feugiat sem in, maximus tellus. Duis quis tincidunt libero, vel consectetur arcu. Sed nibh est, imperdiet vel arcu porttitor, condimentum efficitur ligula. Sed vel turpis ut eros posuere malesuada in sit amet libero. Aliquam cursus dui nisi, vel pellentesque lorem volutpat nec. Quisque auctor, urna et lacinia lobortis, lorem lectus pellentesque dolor, at finibus ante orci eu purus. Suspendisse in metus erat.
+---
 
-Etiam vestibulum accumsan nisl quis dignissim. Maecenas quis porta sapien. Curabitur auctor lorem non urna aliquam congue. Vestibulum lacinia maximus nunc, ut lacinia purus convallis eget. Sed id interdum ex. Quisque congue nisl tortor, ac rhoncus libero imperdiet id. Vestibulum at mauris risus. Etiam venenatis condimentum massa sit amet egestas. Suspendisse facilisis sit amet magna id ultricies. Integer in lobortis lorem. Suspendisse euismod dui sed tellus convallis, quis semper diam commodo. Etiam mi dui, euismod non ligula venenatis, venenatis sollicitudin sem. Integer in volutpat nibh. Nunc mauris justo, tincidunt eu dui nec, ullamcorper commodo odio.
+## 🛠️ Skills & Technologies  
 
+Here are some of the tools and technologies I’ve worked with:  
+
+- ☁️ **Cloud & Infrastructure**: Azure, VMware, RedHat  
+- ⚙️ **Automation & IaC**: Terraform, Ansible  
+- 🗄️ **Databases**: PostgreSQL, Greenplum DB  
+- 📊 **Data Integration**: Informatica  
+- 💻 **Web Development**: HTML, CSS  
+- 🔗 **Version Control**: GitHub  
+
+---
+
+## 📫 Connect with Me  
+
+- 🌐 Portfolio: [abeciaj.github.io/my-portfolio](https://abeciaj.github.io/my-portfolio/)  
+- 💼 LinkedIn: *(Add your LinkedIn link if you’d like)*  
+- 📧 Email: *(Optional, if you want to share)*  
+
+---
+
+✨ *Always curious. Always building.*  
