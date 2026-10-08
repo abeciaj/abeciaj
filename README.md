@@ -23,7 +23,7 @@ Here are some of the tools and technologies I’ve worked with:
 
 ## 📫 Connect with Me  
 
-- 🌐 Portfolio: [abeciaj.github.io/my-portfolio](https://abeciaj.github.io/my-portfolio/)  
+- 🌐 Portfolio: [jayabecia.com](https://jayabecia.com/)  
 - 💼 LinkedIn: [Jayllan Abecia](https://www.linkedin.com/in/jayllan-abecia/)
 ---
 
